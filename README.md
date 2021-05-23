@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashd-dev
-- 🌱 I’m currently learning ...Linux & Python
+- 🌱 I’m currently learning ...Linux Arch & Python
 
 
 <!---
