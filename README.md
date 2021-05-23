@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashd-devk
+- 👋 Hi, I’m @yashd-dev
 - 🌱 I’m currently learning ...Linux & Python
 
 
