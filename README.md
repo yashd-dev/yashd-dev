@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yashd-dev
-- 👀 I’m interested in ...learning Web Dev and Ethical HAcking
-- 🌱 I’m currently learning ...Linux
+- 👋 Hi, I’m @yashd-devk
+- 🌱 I’m currently learning ...Linux & Python
 
 
 <!---
