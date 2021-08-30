@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashd-dev
-- 🌱 I’m currently learning ... Python And GNU/Linux
+- 🌱 I’m currently learning ... Python
 
 
 [![yashd-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashd-dev&show_icons=true&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashd-dev&hide=javascript,html,css,scss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
