@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Deshpande
 - 🌱 I’m currently learning ... Python
-- ⛓ Intrested in blocchain and 💻AI
+- 💻 Intrested in AI & ⛓ blockchain  
 - 👦 Student, Studying in MPSTME, Mumbai
 - 😎 GNU/Linux Enthusiast
 
