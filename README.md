@@ -6,6 +6,15 @@
 
 - 👦 Student, Studying in MPSTME, Mumbai
 
+- 💻[Personal Portfolio Website](https://yashd-dev.github.io/Portfolio/)
+
+- 💻Sites Made for fun:
+  - [Mediethics](https://mediethics-yashd.web.app/#slide=1)
+  - [Collage Assignment](https://github.com/yashd-dev/Collage-Assignment-Homepage)
+  - [Lapros](https://yashd-dev.github.io/LaPros/)
+
+- 👀 [Some Python Projects](https://github.com/yashd-dev/Python-Problems)
+
 ---
 
   
