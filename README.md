@@ -15,6 +15,8 @@
 
 - 👀 [Some Python Projects](https://github.com/yashd-dev/Python-Problems)
 
+- 🤫 Currently Working on a new Programing Language (purely for eductional purpose)
+
 ---
 
   
