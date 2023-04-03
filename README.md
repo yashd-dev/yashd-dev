@@ -8,7 +8,7 @@
 
 - 💻 [Personal Portfolio Website](https://yashd-dev.github.io/Portfolio/)
 
-- 💻 Sites Made for fun:
+- 👨‍💻 Sites Made for fun:
   - [Mediethics](https://mediethics-yashd.web.app/#slide=1)
   - [College Assignment](https://github.com/yashd-dev/Collage-Assignment-Homepage)
   - [Lapros](https://yashd-dev.github.io/LaPros/)
