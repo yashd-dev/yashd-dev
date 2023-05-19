@@ -6,7 +6,7 @@
 
 - 👦 Student, Studying in MPSTME, Mumbai
 
-- 💻 [Personal Portfolio Website](https://yashd-dev.github.io/Portfolio/)
+- 💻 [Personal Portfolio Website](https://yashd-dev-portfolio.netlify.app/)
 
 - 👨‍💻 Sites Made for fun:
   - [Mediethics](https://mediethics-yashd.web.app/#slide=1)
