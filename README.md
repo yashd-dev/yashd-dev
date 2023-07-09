@@ -18,7 +18,12 @@
 - 🤓 [Rock Paper Scissors Made with OpenCV and MediaPipe](https://github.com/yashd-dev/RPS-using-OpenCv)
 ---
 
-  
+#### ❖ Contact Me
+
+- Email: yashdeshpande415@protonmail.com
+- Linkedin: https://www.linkedin.com/in/yash-deshpande-224431219/
+
+--- 
 
 #### ❖ Stats
 
