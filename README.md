@@ -11,7 +11,8 @@
 - 👨‍💻 Projects Made for fun:
   - [Neurotechh](https://neurotechh.live/) - A landing page and blog website for my community, made in Astro, Tailwind, and Sanity
   - [ACM MPSTME Student Chapter](https://mpstme.acm.org/) - A Landing Page and blog website for my community, made in Astro, Tailwind, and Sanity
-  - [Ezpay](https://ezpay.yashd.tech/) - A Digital Wallet demonstrating CRUD in Firebase along with the use of Gemini Vission 
+  - [Ezpay](https://ezpay.yashd.tech/) - A Digital Wallet demonstrating CRUD in Firebase along with the use of Gemini Vission
+  - [MediBudddy](https://datathon-datarangers.naitiklodha.tech/) - A Gemini-based medical assistant built in one night for a hackathon with Nextjs and ShadcnUI
   - [Brain Tumour Detection](https://github.com/mri-brain-tumour-detection/tumor-detection) - Contributed in developing a modified VGG16 CNN model and also implemented AlexNet for benchmarking.
   - [Mediethics](https://mediethics-yashd.web.app/#slide=1) - A Landing Page for My Dad's Company
   - [Some Python Projects](https://github.com/yashd-dev/Python-Problems)
