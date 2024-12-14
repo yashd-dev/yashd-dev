@@ -23,7 +23,7 @@
 #### ❖ Contact Me
 
 - Email: yashdeshpande415@protonmail.com
-- Linkedin: https://www.linkedin.com/in/yash-deshpande-224431219/
+- Linkedin: https://www.linkedin.com/in/yashd-dev
 
 --- 
 
