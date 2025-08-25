@@ -4,7 +4,7 @@
 
 - 👋 Hello everyone, I'm Yash, a Student Developer who is proficient at Frontend Web Development and knows a great deal about Operating Systems!
 
-- 🤓 Co-Founder of [Neurotechhh](https://neurotechhxyz/) a community of student developers who build projects and come up with innovative solutions!
+- 🤓 Co-Founder of [Neurotechhh](https://neurotechh.xyz/) a community of student developers who build projects and come up with innovative solutions!
 
 - 💻 [Personal Portfolio Website](https://yashd.tech/)
 
