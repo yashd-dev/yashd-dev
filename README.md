@@ -6,7 +6,7 @@
 
 - 🤓 Co-Founder of [Neurotechhh](https://neurotechh.xyz/) a community of student developers who build projects and come up with innovative solutions!
 
-- 💻 [Personal Portfolio Website](https://yashd.tech/)
+- 💻 [Personal Portfolio Website](https://yashd.in/)
 
 - 👨‍💻 Projects Made for fun:
   - [Adeon](https://adeon.me/) -A modern developer suite that enables users to manage code deployments, analyze pull requests, chat with code, provision environments, and more. Built with Next.js, ShadCN, Express.js, VS Code, Docker (for environment provisioning), and Python (for AI integration), and hosted on an EC2 instance.
