@@ -6,6 +6,8 @@
 
 - 🤓 Co-Founder of [Neurotechhh](https://neurotechh.xyz/) a community of student developers who build projects and come up with innovative solutions!
 
+- ✏️ Currently Working on [Actuall Fair](http://actuallyfair.in/) an e-commerce platform focused on fair pricing and transparent sourcing 
+
 - 💻 [Personal Portfolio Website](https://yashd.in/)
 
 - 👨‍💻 Projects Made for fun:
